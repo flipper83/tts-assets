@@ -407,7 +407,7 @@
       "XmlUI": ""
     },
     {
-      "GUID": "901fc2",
+      "GUID": "d814a9",
       "Name": "Custom_Token",
       "Transform": {
         "posX": 0.0,
@@ -464,7 +464,7 @@
       }
     },
     {
-      "GUID": "78a410",
+      "GUID": "bf3213",
       "Name": "Custom_Tile",
       "Transform": {
         "posX": 0.0,
@@ -508,7 +508,7 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://flipper83.github.io/tts-assets/jantar-mantar/tiles/t_1_a_7c1ffbfd.png",
+        "ImageURL": "https://flipper83.github.io/tts-assets/jantar-mantar/tiles/t_1_a_409779c6.png",
         "ImageSecondaryURL": "https://flipper83.github.io/tts-assets/jantar-mantar/tiles/t_1_b_1ab2d7ef.png",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
@@ -521,7 +521,7 @@
       }
     },
     {
-      "GUID": "e0aaca",
+      "GUID": "fcb397",
       "Name": "CardCustom",
       "Transform": {
         "posX": 0.0,
@@ -579,7 +579,7 @@
       }
     },
     {
-      "GUID": "65affa",
+      "GUID": "ca853b",
       "Name": "Deck",
       "Transform": {
         "posX": 0.0,
@@ -643,7 +643,7 @@
       },
       "ContainedObjects": [
         {
-          "GUID": "6d4a07",
+          "GUID": "8b6d82",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
@@ -701,7 +701,7 @@
           }
         },
         {
-          "GUID": "729878",
+          "GUID": "459504",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
@@ -759,7 +759,7 @@
           }
         },
         {
-          "GUID": "fe69e6",
+          "GUID": "161f22",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
@@ -817,7 +817,7 @@
           }
         },
         {
-          "GUID": "b388e1",
+          "GUID": "cf7318",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
@@ -875,7 +875,7 @@
           }
         },
         {
-          "GUID": "2b02b8",
+          "GUID": "66e4ba",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
@@ -935,7 +935,7 @@
       ]
     },
     {
-      "GUID": "994b4d",
+      "GUID": "390741",
       "Name": "Deck",
       "Transform": {
         "posX": 0.0,
@@ -999,7 +999,7 @@
       },
       "ContainedObjects": [
         {
-          "GUID": "26e313",
+          "GUID": "38bb6c",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
@@ -1057,7 +1057,7 @@
           }
         },
         {
-          "GUID": "46e102",
+          "GUID": "ed72b1",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
@@ -1115,7 +1115,7 @@
           }
         },
         {
-          "GUID": "376d0e",
+          "GUID": "d0b170",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
@@ -1173,7 +1173,7 @@
           }
         },
         {
-          "GUID": "f73efc",
+          "GUID": "16bebf",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
@@ -1231,7 +1231,7 @@
           }
         },
         {
-          "GUID": "344057",
+          "GUID": "4569b5",
           "Name": "Card",
           "Transform": {
             "posX": 0.0,
