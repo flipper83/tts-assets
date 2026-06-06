@@ -1,0 +1,73 @@
+{
+  "files": {
+    "to_1.png": {
+      "hash": "2d192c8146f370ca88e038392b9dd3512af83d341e552d1a33086945f820434e",
+      "remote": "jantar-mantar/tokens/to_1_2d192c81.png"
+    },
+    "t_1_a.png": {
+      "hash": "409779c6328017073a0a8798f30a399f35db4b87fc262ee95f03dc73499183f7",
+      "remote": "jantar-mantar/tiles/t_1_a_409779c6.png"
+    },
+    "t_1_b.png": {
+      "hash": "1ab2d7ef43f2f0b6f98b9678123c79e4f40183c7051b7127af0bc2b320e0aa1b",
+      "remote": "jantar-mantar/tiles/t_1_b_1ab2d7ef.png"
+    },
+    "c_1_a.png": {
+      "hash": "c5c4502fd1ba3afa9d290b24d7c877c26e9d95fedb06deca3d0690c19420f322",
+      "remote": "jantar-mantar/cards/c_1_a_c5c4502f.png"
+    },
+    "c_1_b.png": {
+      "hash": "f34d749ac7a4fb67956b87e9af9f12a706230c3885aaa75c46c97c10d5ddf373",
+      "remote": "jantar-mantar/cards/c_1_b_f34d749a.png"
+    },
+    "d_a_a1.png": {
+      "hash": "08233d6280be867e61a43a152b71852dd58d4916e4e9894f1c2a5bbfe8c9fc87",
+      "remote": "jantar-mantar/decks/deck_a_sheet_7c193151.png"
+    },
+    "d_a_a2.png": {
+      "hash": "0255dc5f730e7bdc506c4c672a9fe160fad21f277bce0208c91f02ad57df97e9",
+      "remote": "jantar-mantar/decks/deck_a_sheet_7c193151.png"
+    },
+    "d_a_a3.png": {
+      "hash": "dd51bedddc01c7118f19a081e1b681e9347fa74ee794085ecb9d17d574b05323",
+      "remote": "jantar-mantar/decks/deck_a_sheet_7c193151.png"
+    },
+    "d_a_a4.png": {
+      "hash": "dd72e47525728a4aac3844912580b23aa06b1965daae49c7e48806763bf56a60",
+      "remote": "jantar-mantar/decks/deck_a_sheet_7c193151.png"
+    },
+    "d_a_a5.png": {
+      "hash": "82465becf339dba66c5b43a7692b127e91957ce114e050c53233053d73a5a56f",
+      "remote": "jantar-mantar/decks/deck_a_sheet_7c193151.png"
+    },
+    "d_a_back.png": {
+      "hash": "225676fa55f3fb7515594e953a676e8b451ea0bb4ef77dad0e92fbae544086b9",
+      "remote": "jantar-mantar/decks/d_a_back_225676fa.png"
+    },
+    "d_b_b1.png": {
+      "hash": "83412cce13e3d3013b8fa264614150c650be9ffe927b913ca31b13c129ef75b1",
+      "remote": "jantar-mantar/decks/deck_b_sheet_0b8023f9.png"
+    },
+    "d_b_b2.png": {
+      "hash": "dbe3eed8eb079da2a5f6f6f5e10fdd8c5b7c54ee39b5b035bfdf6abe051e66eb",
+      "remote": "jantar-mantar/decks/deck_b_sheet_0b8023f9.png"
+    },
+    "d_b_b3.png": {
+      "hash": "b0724ec28aced46d381272efe7350e37de1cf368129d61549f9a731872076184",
+      "remote": "jantar-mantar/decks/deck_b_sheet_0b8023f9.png"
+    },
+    "d_b_b4.png": {
+      "hash": "fbf2674afb70bbe95bb622393f9d98cd1597195ee0e645381daa1efca02eb7c2",
+      "remote": "jantar-mantar/decks/deck_b_sheet_0b8023f9.png"
+    },
+    "d_b_b5.png": {
+      "hash": "219c4634e0698b417e15e3b30e33e6d6f293b86557bf018c466e3742f76b07d6",
+      "remote": "jantar-mantar/decks/deck_b_sheet_0b8023f9.png"
+    },
+    "d_b_back.png": {
+      "hash": "225676fa55f3fb7515594e953a676e8b451ea0bb4ef77dad0e92fbae544086b9",
+      "remote": "jantar-mantar/decks/d_b_back_225676fa.png"
+    }
+  },
+  "save_hash": "0cd53fb65eb8091507d345a8738151a6d08791f1e258a0c16dfd030e03d83914"
+}
