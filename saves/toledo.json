@@ -410,15 +410,15 @@
       "GUID": "3391a2",
       "Name": "Custom_Token",
       "Transform": {
-        "posX": 0.0,
-        "posY": 1.0,
-        "posZ": 0.0,
-        "rotX": 0.0,
-        "rotY": 180.0,
-        "rotZ": 0.0,
-        "scaleX": 1.0,
+        "posX": -0.494624257,
+        "posY": 1.05999947,
+        "posZ": 2.54143643,
+        "rotX": 1.42286524e-07,
+        "rotY": 180.0001,
+        "rotZ": -1.71583406e-06,
+        "scaleX": 11.6500244,
         "scaleY": 1.0,
-        "scaleZ": 1.0
+        "scaleZ": 11.6500244
       },
       "Nickname": "board",
       "Description": "",
@@ -451,7 +451,64 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://flipper83.github.io/tts-assets/toledo/tokens/to_board_6985e48d.png",
+        "ImageURL": "https://flipper83.github.io/tts-assets/toledo/tokens/to_board_86c4e68c.png",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+          "Thickness": 0.2,
+          "MergeDistancePixels": 15.0,
+          "StandUp": false,
+          "Stackable": false
+        }
+      }
+    },
+    {
+      "GUID": "a91354",
+      "Name": "Custom_Token",
+      "Transform": {
+        "posX": 0.0,
+        "posY": 1.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 180.0,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "corte",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "CustomImage": {
+        "ImageURL": "https://flipper83.github.io/tts-assets/toledo/tokens/to_corte_08ddfc71.png",
         "ImageSecondaryURL": "",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
@@ -467,15 +524,15 @@
       "GUID": "be2711",
       "Name": "Custom_Token",
       "Transform": {
-        "posX": 0.0,
-        "posY": 1.0,
-        "posZ": 0.0,
-        "rotX": 0.0,
-        "rotY": 180.0,
-        "rotZ": 0.0,
-        "scaleX": 1.0,
+        "posX": -41.0608444,
+        "posY": 1.06367779,
+        "posZ": -17.9420681,
+        "rotX": 0.000165557853,
+        "rotY": 180.004166,
+        "rotZ": 0.018893579,
+        "scaleX": 4.849999,
         "scaleY": 1.0,
-        "scaleZ": 1.0
+        "scaleZ": 4.849999
       },
       "Nickname": "personal",
       "Description": "",
@@ -508,7 +565,7 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://flipper83.github.io/tts-assets/toledo/tokens/to_personal_98fd8f00.png",
+        "ImageURL": "https://flipper83.github.io/tts-assets/toledo/tokens/to_personal_79af62df.png",
         "ImageSecondaryURL": "",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
@@ -565,7 +622,7 @@
       "LuaScriptState": "",
       "XmlUI": "",
       "CustomImage": {
-        "ImageURL": "https://flipper83.github.io/tts-assets/toledo/tokens/to_scriptorium_4d0c0d0c.png",
+        "ImageURL": "https://flipper83.github.io/tts-assets/toledo/tokens/to_scriptorium_954b604e.png",
         "ImageSecondaryURL": "",
         "ImageScalar": 1.0,
         "WidthScale": 0.0,
@@ -639,8 +696,8 @@
       ],
       "CustomDeck": {
         "1": {
-          "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-          "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+          "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+          "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
           "NumWidth": 10,
           "NumHeight": 2,
           "BackIsHidden": false,
@@ -697,8 +754,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -755,8 +812,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -813,8 +870,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -871,8 +928,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -929,8 +986,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -987,8 +1044,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1045,8 +1102,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1103,8 +1160,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1161,8 +1218,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1219,8 +1276,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1277,8 +1334,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1335,8 +1392,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1393,8 +1450,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "1": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_e7a378b0.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_a218031c.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_1_sheet_07e4b7d6.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_1_back_3afa9047.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1467,8 +1524,8 @@
       ],
       "CustomDeck": {
         "2": {
-          "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-          "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+          "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+          "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
           "NumWidth": 10,
           "NumHeight": 2,
           "BackIsHidden": false,
@@ -1525,8 +1582,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1583,8 +1640,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1641,8 +1698,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1699,8 +1756,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1757,8 +1814,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1815,8 +1872,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1873,8 +1930,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1931,8 +1988,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -1989,8 +2046,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2047,8 +2104,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2105,8 +2162,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2163,8 +2220,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2221,8 +2278,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_ee6bab6b.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_daa83a56.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_2_sheet_74377eab.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_2_back_1c349ea4.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2295,8 +2352,8 @@
       ],
       "CustomDeck": {
         "3": {
-          "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-          "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+          "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+          "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
           "NumWidth": 10,
           "NumHeight": 2,
           "BackIsHidden": false,
@@ -2353,8 +2410,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2411,8 +2468,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2469,8 +2526,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2527,8 +2584,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2585,8 +2642,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2643,8 +2700,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2701,8 +2758,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2759,8 +2816,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2817,8 +2874,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2875,8 +2932,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2933,8 +2990,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -2991,8 +3048,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -3049,8 +3106,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_41bf1754.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_47745ba1.png",
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_3_sheet_fbd5cdea.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_3_back_638553dc.png",
               "NumWidth": 10,
               "NumHeight": 2,
               "BackIsHidden": false,
@@ -3359,6 +3416,303 @@
       ]
     },
     {
+      "GUID": "4a4ad3",
+      "Name": "Deck",
+      "Transform": {
+        "posX": 0.0,
+        "posY": 1.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 180.0,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      },
+      "Nickname": "init",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.713235259,
+        "g": 0.713235259,
+        "b": 0.713235259
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": true,
+      "Hands": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "SidewaysCard": false,
+      "DeckIDs": [
+        500,
+        501,
+        502,
+        503
+      ],
+      "CustomDeck": {
+        "5": {
+          "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_init_sheet_de7d55a0.png",
+          "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_init_back_3bb21ae9.png",
+          "NumWidth": 4,
+          "NumHeight": 1,
+          "BackIsHidden": false,
+          "UniqueBack": false,
+          "Type": 0
+        }
+      },
+      "ContainedObjects": [
+        {
+          "GUID": "287003",
+          "Name": "Card",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 1.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "CardID": 500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_init_sheet_de7d55a0.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_init_back_3bb21ae9.png",
+              "NumWidth": 4,
+              "NumHeight": 1,
+              "BackIsHidden": false,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          }
+        },
+        {
+          "GUID": "3d069c",
+          "Name": "Card",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 1.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "CardID": 501,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_init_sheet_de7d55a0.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_init_back_3bb21ae9.png",
+              "NumWidth": 4,
+              "NumHeight": 1,
+              "BackIsHidden": false,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          }
+        },
+        {
+          "GUID": "1ab7a1",
+          "Name": "Card",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 1.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "CardID": 502,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_init_sheet_de7d55a0.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_init_back_3bb21ae9.png",
+              "NumWidth": 4,
+              "NumHeight": 1,
+              "BackIsHidden": false,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          }
+        },
+        {
+          "GUID": "718e7f",
+          "Name": "Card",
+          "Transform": {
+            "posX": 0.0,
+            "posY": 1.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 180.0,
+            "rotZ": 0.0,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "CardID": 503,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "5": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_init_sheet_de7d55a0.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_init_back_3bb21ae9.png",
+              "NumWidth": 4,
+              "NumHeight": 1,
+              "BackIsHidden": false,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          }
+        }
+      ]
+    },
+    {
       "GUID": "7bca58",
       "Name": "Deck",
       "Transform": {
@@ -3404,17 +3758,17 @@
       "XmlUI": "",
       "SidewaysCard": false,
       "DeckIDs": [
-        500,
-        501,
-        502,
-        503,
-        504,
-        505,
-        506,
-        507
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607
       ],
       "CustomDeck": {
-        "5": {
+        "6": {
           "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l1_sheet_d98e022d.png",
           "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l1_back_dbfd6b55.png",
           "NumWidth": 8,
@@ -3469,10 +3823,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 500,
+          "CardID": 600,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5": {
+            "6": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l1_sheet_d98e022d.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l1_back_dbfd6b55.png",
               "NumWidth": 8,
@@ -3527,10 +3881,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 501,
+          "CardID": 601,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5": {
+            "6": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l1_sheet_d98e022d.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l1_back_dbfd6b55.png",
               "NumWidth": 8,
@@ -3585,10 +3939,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 502,
+          "CardID": 602,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5": {
+            "6": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l1_sheet_d98e022d.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l1_back_dbfd6b55.png",
               "NumWidth": 8,
@@ -3643,10 +3997,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 503,
+          "CardID": 603,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5": {
+            "6": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l1_sheet_d98e022d.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l1_back_dbfd6b55.png",
               "NumWidth": 8,
@@ -3701,10 +4055,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 504,
+          "CardID": 604,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5": {
+            "6": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l1_sheet_d98e022d.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l1_back_dbfd6b55.png",
               "NumWidth": 8,
@@ -3759,10 +4113,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 505,
+          "CardID": 605,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5": {
+            "6": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l1_sheet_d98e022d.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l1_back_dbfd6b55.png",
               "NumWidth": 8,
@@ -3817,10 +4171,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 506,
+          "CardID": 606,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5": {
+            "6": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l1_sheet_d98e022d.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l1_back_dbfd6b55.png",
               "NumWidth": 8,
@@ -3875,10 +4229,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 507,
+          "CardID": 607,
           "SidewaysCard": false,
           "CustomDeck": {
-            "5": {
+            "6": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l1_sheet_d98e022d.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l1_back_dbfd6b55.png",
               "NumWidth": 8,
@@ -3937,17 +4291,17 @@
       "XmlUI": "",
       "SidewaysCard": false,
       "DeckIDs": [
-        600,
-        601,
-        602,
-        603,
-        604,
-        605,
-        606,
-        607
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707
       ],
       "CustomDeck": {
-        "6": {
+        "7": {
           "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l2_sheet_dad81880.png",
           "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l2_back_272831e4.png",
           "NumWidth": 8,
@@ -4002,10 +4356,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 600,
+          "CardID": 700,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
+            "7": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l2_sheet_dad81880.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l2_back_272831e4.png",
               "NumWidth": 8,
@@ -4060,10 +4414,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 601,
+          "CardID": 701,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
+            "7": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l2_sheet_dad81880.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l2_back_272831e4.png",
               "NumWidth": 8,
@@ -4118,10 +4472,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 602,
+          "CardID": 702,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
+            "7": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l2_sheet_dad81880.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l2_back_272831e4.png",
               "NumWidth": 8,
@@ -4176,10 +4530,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 603,
+          "CardID": 703,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
+            "7": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l2_sheet_dad81880.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l2_back_272831e4.png",
               "NumWidth": 8,
@@ -4234,10 +4588,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 604,
+          "CardID": 704,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
+            "7": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l2_sheet_dad81880.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l2_back_272831e4.png",
               "NumWidth": 8,
@@ -4292,10 +4646,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 605,
+          "CardID": 705,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
+            "7": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l2_sheet_dad81880.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l2_back_272831e4.png",
               "NumWidth": 8,
@@ -4350,10 +4704,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 606,
+          "CardID": 706,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
+            "7": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l2_sheet_dad81880.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l2_back_272831e4.png",
               "NumWidth": 8,
@@ -4408,10 +4762,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 607,
+          "CardID": 707,
           "SidewaysCard": false,
           "CustomDeck": {
-            "6": {
+            "7": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l2_sheet_dad81880.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l2_back_272831e4.png",
               "NumWidth": 8,
@@ -4470,17 +4824,17 @@
       "XmlUI": "",
       "SidewaysCard": false,
       "DeckIDs": [
-        700,
-        701,
-        702,
-        703,
-        704,
-        705,
-        706,
-        707
+        800,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807
       ],
       "CustomDeck": {
-        "7": {
+        "8": {
           "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l3_sheet_c2cdcfbf.png",
           "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l3_back_fb4f4805.png",
           "NumWidth": 8,
@@ -4535,10 +4889,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 700,
+          "CardID": 800,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7": {
+            "8": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l3_sheet_c2cdcfbf.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l3_back_fb4f4805.png",
               "NumWidth": 8,
@@ -4593,10 +4947,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 701,
+          "CardID": 801,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7": {
+            "8": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l3_sheet_c2cdcfbf.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l3_back_fb4f4805.png",
               "NumWidth": 8,
@@ -4651,10 +5005,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 702,
+          "CardID": 802,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7": {
+            "8": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l3_sheet_c2cdcfbf.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l3_back_fb4f4805.png",
               "NumWidth": 8,
@@ -4709,10 +5063,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 703,
+          "CardID": 803,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7": {
+            "8": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l3_sheet_c2cdcfbf.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l3_back_fb4f4805.png",
               "NumWidth": 8,
@@ -4767,10 +5121,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 704,
+          "CardID": 804,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7": {
+            "8": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l3_sheet_c2cdcfbf.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l3_back_fb4f4805.png",
               "NumWidth": 8,
@@ -4825,10 +5179,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 705,
+          "CardID": 805,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7": {
+            "8": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l3_sheet_c2cdcfbf.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l3_back_fb4f4805.png",
               "NumWidth": 8,
@@ -4883,10 +5237,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 706,
+          "CardID": 806,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7": {
+            "8": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l3_sheet_c2cdcfbf.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l3_back_fb4f4805.png",
               "NumWidth": 8,
@@ -4941,10 +5295,10 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 707,
+          "CardID": 807,
           "SidewaysCard": false,
           "CustomDeck": {
-            "7": {
+            "8": {
               "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_l3_sheet_c2cdcfbf.png",
               "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_l3_back_fb4f4805.png",
               "NumWidth": 8,
@@ -5003,17 +5357,17 @@
       "XmlUI": "",
       "SidewaysCard": false,
       "DeckIDs": [
-        800,
-        801,
-        802,
-        803,
-        804,
-        805
+        900,
+        901,
+        902,
+        903,
+        904,
+        905
       ],
       "CustomDeck": {
-        "8": {
-          "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_015ca232.png",
-          "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_53e5384a.png",
+        "9": {
+          "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_a4b64997.png",
+          "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_2087799e.png",
           "NumWidth": 6,
           "NumHeight": 1,
           "BackIsHidden": false,
@@ -5066,12 +5420,12 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 800,
+          "CardID": 900,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_015ca232.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_53e5384a.png",
+            "9": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_a4b64997.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_2087799e.png",
               "NumWidth": 6,
               "NumHeight": 1,
               "BackIsHidden": false,
@@ -5124,12 +5478,12 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 801,
+          "CardID": 901,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_015ca232.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_53e5384a.png",
+            "9": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_a4b64997.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_2087799e.png",
               "NumWidth": 6,
               "NumHeight": 1,
               "BackIsHidden": false,
@@ -5182,12 +5536,12 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 802,
+          "CardID": 902,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_015ca232.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_53e5384a.png",
+            "9": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_a4b64997.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_2087799e.png",
               "NumWidth": 6,
               "NumHeight": 1,
               "BackIsHidden": false,
@@ -5240,12 +5594,12 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 803,
+          "CardID": 903,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_015ca232.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_53e5384a.png",
+            "9": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_a4b64997.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_2087799e.png",
               "NumWidth": 6,
               "NumHeight": 1,
               "BackIsHidden": false,
@@ -5298,12 +5652,12 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 804,
+          "CardID": 904,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_015ca232.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_53e5384a.png",
+            "9": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_a4b64997.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_2087799e.png",
               "NumWidth": 6,
               "NumHeight": 1,
               "BackIsHidden": false,
@@ -5356,12 +5710,12 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": "",
-          "CardID": 805,
+          "CardID": 905,
           "SidewaysCard": false,
           "CustomDeck": {
-            "8": {
-              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_015ca232.png",
-              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_53e5384a.png",
+            "9": {
+              "FaceURL": "https://flipper83.github.io/tts-assets/toledo/decks/deck_point_sheet_a4b64997.png",
+              "BackURL": "https://flipper83.github.io/tts-assets/toledo/decks/d_point_back_2087799e.png",
               "NumWidth": 6,
               "NumHeight": 1,
               "BackIsHidden": false,
