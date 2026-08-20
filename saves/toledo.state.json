@@ -1,184 +1,184 @@
 {
   "files": {
     "to_board.png": {
-      "hash": "86c4e68c20de7b1a712157fd4f35faeeb69c77d877e9d71a890f30567a17c7db",
-      "remote": "toledo/tokens/to_board_86c4e68c.png"
+      "hash": "e8d51cbf248f259255712209d2ec8315b5e358b88114dbc5f1a034c60bdee75e",
+      "remote": "toledo/tokens/to_board_a1d81749.png"
     },
     "to_personal.png": {
-      "hash": "79af62dff14ba21e5bb2d70096c10cd86cf1b8d02b960f47d8ddad528b807b71",
-      "remote": "toledo/tokens/to_personal_79af62df.png"
+      "hash": "1f6816111472ab6d08125242977e8e5dda39719e722086e33358ff534338dba3",
+      "remote": "toledo/tokens/to_personal_2daa3a56.png"
     },
     "to_scriptorium.png": {
-      "hash": "954b604e9366f71cd13c2327575a7b3adba0935973882f17f72de70513f6a58e",
-      "remote": "toledo/tokens/to_scriptorium_954b604e.png"
+      "hash": "c6ee59b4511ed22b31ed7739877298b8fe885595d94560037554e0c7c6ee19d4",
+      "remote": "toledo/tokens/to_scriptorium_692c4c05.png"
     },
     "d_1_1.png": {
-      "hash": "85bb7e88c834fccf5c01be69e4173b507b594f0f9f1ef53c7df8df2f7cc0a57c",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "69b719542c8b3981d6de218ba62eef46bce59846bfaf0e1726ee0f4df17c4893",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_10.png": {
-      "hash": "4f8f3e6b7c4c3f51bec0c15cc9b7a2aead4bd2ed38720e45beaec6ab926e16fc",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "ce7e164d15e62d032b47cec9d3cb8b2889653f9fce85150cc27e993fab25fe90",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_11.png": {
-      "hash": "cba01e16086277df04e34e10364f028a9b7e48072eb073417ff914e7267a8245",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "e43f610061bd072cadc0eb251d5b34d51d1512a8fa98f78d17e4633d78d3d7bd",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_12.png": {
-      "hash": "5b5cb8b22f61c3127fe73efaf8d05407f6766f3921c9f10dcc014840039100bc",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "e19984632d1400a58c4cd784b12f46c46da98e274481961b99a89fc62ddd582d",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_13.png": {
-      "hash": "8281c9b0f39295b0af3f28add70f8904719a108385754ab6d2eefa8f37eee1cb",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "9266deabe6051239dfa0e1890fbb3134b5cf2af8479b6c1d8d51a4ae68050da4",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_2.png": {
-      "hash": "082da5194f28f133a1a76aa06598156851b6b2e9675af8032b68ed5e4de4c8a0",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "507b04605bd61dc6c73489c9f833958b42b43ff8b878410466c954b9a3fb9dfe",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_3.png": {
-      "hash": "1e8b25cdfc476d5c58c75e9392001c9df60545deabe0082f3daa5af3bc25a92b",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "482544b64bd7e0b348bf965109fa31e8d2bc57f9a8dcab06ce624c7fb924f2c9",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_4.png": {
-      "hash": "2835d825134a2a02e65db20a4a1cbe56e837fd49f5c9c53cda27358ff778de36",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "caac4268182af8eba8eb04312e2bb342648da84131dd1664f48e633de49c52a4",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_5.png": {
-      "hash": "67dceaa89270acbe03b29235960f488f0493e71391df31be7d78d2141abaa582",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "e00629e055be52dde6fbde40c372b8c65f964100fcc7351d584156b7b6d75a65",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_6.png": {
-      "hash": "8e98120a6c80e4f736128688b96aeb0b1579ba8452f5f653d637c37ba2268c55",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "2a1ecc5f561f3fb3d230b5d4594e2f107c3a20ba8e9aa0271f07e52ec9ae517e",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_7.png": {
-      "hash": "fc6ed3538358576621eab73e4b08ac670b29a4249eb6a30d0fd60a1d881e9288",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "8936d4f15ee62676e133c37204659411d5951c1f8efb545c29f15723013661fc",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_8.png": {
-      "hash": "4befd1297dba2b3b5e5a6d9c7a54f0825cded639630dbb67f25397992afb37f3",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "1cba341a05444466b514613498001b6ee174d818496cd6642638707e0271f893",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_9.png": {
-      "hash": "4691c0d65a76168c8c259a3bde220707b017036cd131baf96528699e1e170b65",
-      "remote": "toledo/decks/deck_1_sheet_07e4b7d6.png"
+      "hash": "708cf483e805fafce538531cfbf9796bccebf0dae5faed6bedc4ca23e3c93208",
+      "remote": "toledo/decks/deck_1_sheet_10142dac.png"
     },
     "d_1_back.png": {
-      "hash": "3afa90473a2219e0efb1c153637eb74e7877b2f6432655b822a4c70d59cc30cf",
-      "remote": "toledo/decks/d_1_back_3afa9047.png"
+      "hash": "fa8c24654c864156414c1349cb2148eaf1e73591769fe9065645c244f46243ba",
+      "remote": "toledo/decks/d_1_back_a092ff73.png"
     },
     "d_2_1.png": {
-      "hash": "b411ec296a87d155e4d8e64d27e516948c124e6cf2e0536b70bf4b95c54d29f9",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "44c3300455275c657b0b3d14a73859312e18cd8e9f525b501f4665e55bf8ddbc",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_10.png": {
-      "hash": "a6f6f44360fdab662d3f63fcd2c5a97d8fce5016fd8cf4395bb5608390ec68e1",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "e9f5892a36bf485a82b7fda6e5b5840f5035d667370f5a28581bce2fcc6a68ff",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_11.png": {
-      "hash": "7bb0125ab0841469906d08888514989297c216351a33c95005bc63b21e0d49ab",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "02a7479c9721486dc51ee6679d0a4eb12255688d7f59de8f1cec30d9dfcd111c",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_12.png": {
-      "hash": "e0b11ef1aa0206c3e9c905d196143beb19ac3850de5a630538b6485fcc48a8c3",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "cc1ff26529fc0806734e88b3a1a50df135b46d4ac7ca52778881fa9a4aab04aa",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_13.png": {
-      "hash": "236548f41553ec07fe034aa2c006ece5750bedd12cbb865ed9145a03892fe462",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "26f8bf5514e5813b1848a02bb256b90d71fdde55e2e133ffbc45f37475589f6d",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_2.png": {
-      "hash": "da9f06d7be21c03a3e0952f210bd0a066f57ed96324d4727aa1a72f9c0a3e684",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "2aa1cd8224b69152b9825b6c2d961434ff92017c2bfd466d185b2712ca0fc93d",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_3.png": {
-      "hash": "0dcb3d5b2fcf527e259c035da54e1a07fd1ba55b9f5ab8a96ddf0dee7cbb2056",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "cf10e6a7975ef964c1f2a909ae63f43d01afe9e9e5be7aa86c3a7affe6e099bc",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_4.png": {
-      "hash": "d62c0da72bc4eaf2e757b3a7b096a165c3961829c0e0ffd2cb3be7f0e29a042a",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "47ccf731b71498d9656e55af92837a86601cd7923dcfad4bd685d40bdbd8c05a",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_5.png": {
-      "hash": "33f9e52a2e80fe03c313c80c6d60f485038d11c646c0e97246ee9f8bc04a1d23",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "0ec06db87927fcc6f22062725a419d125ad401d8d7b9909285b0fdfb78662e1c",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_6.png": {
-      "hash": "ec253fccae4c4741431ca4f0cc078491467bfd3198f8093868f878bb280620b6",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "a337dd355317710fb0790a16cd88fd0295f1ea644e00559d8e783803706c7b57",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_7.png": {
-      "hash": "eca45187f3ba8f0efd30cd7e4db9749b4b053a206c27209b2e01f61c4adc9f27",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "39e1139ee7c5a2b71df401286798812a386e9620c194dc9e6e73dd259023a36e",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_8.png": {
-      "hash": "bf3c0975a0acbe87e19ae27d30ca97f547700d9aeb3da471ff3005e72156ca77",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "75797f442b719df3b7d718a0b9907e3255eebabc8c3ca7784d059d24f6dbc3e0",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_9.png": {
-      "hash": "251938c2fcc58937c3e9dbccc3bcd0318ed53dcd8f3462de8aa77617ca4ead0f",
-      "remote": "toledo/decks/deck_2_sheet_74377eab.png"
+      "hash": "c8ecea172ae20e97c374dd59d4d3a9626cd3586f4fd00c5ff13892829019fa99",
+      "remote": "toledo/decks/deck_2_sheet_a4e48b9d.png"
     },
     "d_2_back.png": {
-      "hash": "1c349ea451e5b264fd9fa5de0ff69702a39fffa5cec17e6539debe37a463523a",
-      "remote": "toledo/decks/d_2_back_1c349ea4.png"
+      "hash": "943828828ee23bf94b7530e080bad646ad200f3a3dcdb11bb2f46d6eead7c70d",
+      "remote": "toledo/decks/d_2_back_4c8b0cc4.png"
     },
     "d_3_1.png": {
-      "hash": "8fa1517a60c5b9990ab0624ac77f120d7c482f5e7a28ede50a67c001a1432032",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "09dc46c424d1123ff35ae4f07eb60438550a60d262b81e0464768b892c40ee64",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_10.png": {
-      "hash": "eba0c03e47dfc7efdcc895f7358e75f6aa9bf98b1263212b91bb5804314bff13",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "3fbc5ba6c0798b9aaa1f6bc937b535f4e4bb1b093f6be76e1e795cc31244d455",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_11.png": {
-      "hash": "276bf39e8a03ec1a07f8185357e0617a7e285ae986cbc7f1f0260876342c9a03",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "0a1e40d23c624494762300bdcd6d8768c3667b018421529ab6fb021a3ff03617",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_12.png": {
-      "hash": "b30946a18be0fd5971f889d3a919491e2e713a7552feb3061759d1c385622432",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "c118fbd4e3505ee7f1dd7e970acba2b90870932132cb7d23479acc90838b7ce7",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_13.png": {
-      "hash": "b5db973013e6feb695864f21c71039f67fb5ead1e0bfb2407f446fc552f30365",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "13aa02e9cd62605cb9e8ba85ba82144f0165b547d2532832b3020442df6a830e",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_2.png": {
-      "hash": "de469dd7c0233a955c6badefe2b5aacee5f09fa557caab8119e5c5138e79bf9f",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "ca239fa4b51dd80ca4a5bb0ee7d8c5fe802dfc7dbb050243333ff65fff9a72b9",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_3.png": {
-      "hash": "edb7b9683f6d453eed0857f99a9306a58e4fdf9e3699786f72d54d02033ded81",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "93d0a465f873e4ccdc17d6f8fe30e69681bbe55f05777180c49e3b26eebdc958",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_4.png": {
-      "hash": "d20b141cf167b41743816e1b37e58d09d661adda34f210f03b1a4639d5076e2e",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "4b498b4872f63b32a35f16527f759bc23071452133dcb47fee533dd62c3c8fce",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_5.png": {
-      "hash": "07271a025fedf0441891e66168987536641fbd9bb73ef656750f7331737a64ab",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "c5422695841ca76be0465ece1c70545b2fe43f75347426d3e1aa936e008f3573",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_6.png": {
-      "hash": "542979ba7374cc1c8281a9bbfbf342cc7c0b4bc1b26fca18b8f67e9746fb1f55",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "f61ea78b7dd830754a55956b408d8bc1b54214e5778ce1f91b9b9dcb178a3019",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_7.png": {
-      "hash": "74e739619159f639f16e4abd27c19724fdebe1b1ba869a94fb4d5edf7951db59",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "13c135ff57b3b2ebc60865a466e70d63747f815c992c46ab702bf5a514e0562b",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_8.png": {
-      "hash": "48d5f4506581a00518ecc673c3f284e7bb09e140e3ecc3503d61f897aa502174",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "70e2dd7bc58ede558d1bf60e707f26a3efcef748112179c55f4dd11290d06d2f",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_9.png": {
-      "hash": "8223b21442de5394552d5c0d5eaa4bfc416b4454a7b18e4c11d39cfc6858f612",
-      "remote": "toledo/decks/deck_3_sheet_fbd5cdea.png"
+      "hash": "5f5b56db817239ad4b8514781e09bf25fbfe9b255c2bac2115b7543d1856b6a2",
+      "remote": "toledo/decks/deck_3_sheet_60deccd5.png"
     },
     "d_3_back.png": {
-      "hash": "638553dc64f83389d1d0a85f7421c00626b4e58ff85c0155418c351b120320e9",
-      "remote": "toledo/decks/d_3_back_638553dc.png"
+      "hash": "4ce6cd96b76c2c843e9c5bd1b0337e87a3db6ef41a494e4e8ead253fcdb00c3e",
+      "remote": "toledo/decks/d_3_back_d17d24f3.png"
     },
     "d_es_1.png": {
       "hash": "4020f95805f53e7bb95510749966bf6a563ca13d3a844f879a51a1c0dbecaa37",
@@ -309,57 +309,85 @@
       "remote": "toledo/decks/d_l3_back_fb4f4805.png"
     },
     "d_point_1.png": {
-      "hash": "e62e0314fb82debdcb4330a7ef66c9db1f64078c4174ce2eb6db52fdda3fe210",
-      "remote": "toledo/decks/deck_point_sheet_a4b64997.png"
+      "hash": "e5b4af5f82fa82a63fa87caa24c20851eea56d41842d082ff3cb3ddd53dfaeea",
+      "remote": "toledo/decks/deck_point_sheet_57799e8a.png"
     },
     "d_point_2.png": {
-      "hash": "41597ea255cc61dfb8407e508b09ee90ca318bfa8f167bbb22dcd1ae62b19913",
-      "remote": "toledo/decks/deck_point_sheet_a4b64997.png"
+      "hash": "d98dc74d05f37cfa2e7b27a459ae63aa68abc627cc67a48d36e5b6236adc8d6c",
+      "remote": "toledo/decks/deck_point_sheet_57799e8a.png"
     },
     "d_point_3.png": {
-      "hash": "a31a4cecc33cf0273b903886a8b81b535f5a2fe7b7ce0303c5dbcce6e252b62a",
-      "remote": "toledo/decks/deck_point_sheet_a4b64997.png"
+      "hash": "258f0563f7d5b6ac908a795444deb5ec9dafb399bc887f4c873868d95302646d",
+      "remote": "toledo/decks/deck_point_sheet_57799e8a.png"
     },
     "d_point_4.png": {
-      "hash": "4f315e5be8d167d1f7b6e9d0956fb63d5a2d927d38703e77721f73253ee4e923",
-      "remote": "toledo/decks/deck_point_sheet_a4b64997.png"
+      "hash": "c6fec70309284d08e4ce7b65d8a3fffbf893854f5b6b7c417b603426a5a0b5e3",
+      "remote": "toledo/decks/deck_point_sheet_57799e8a.png"
     },
     "d_point_5.png": {
-      "hash": "de214047e913268940a06c992a7da441ffa4bfa11696c2fd80ed3cfd1a9e6295",
-      "remote": "toledo/decks/deck_point_sheet_a4b64997.png"
+      "hash": "01ceb7af5136d7c3b15c684893ff80e8b7d33b99002848687467026548b18cee",
+      "remote": "toledo/decks/deck_point_sheet_57799e8a.png"
     },
     "d_point_6.png": {
-      "hash": "2c8d29aa55cc0c5ce45d97c7677f17848bdabff1c31f925b262ab737819fae6d",
-      "remote": "toledo/decks/deck_point_sheet_a4b64997.png"
+      "hash": "1e54bca6384599b4b6eee87b293a27d3c40e356f749be108ba1d2f23d6216a16",
+      "remote": "toledo/decks/deck_point_sheet_57799e8a.png"
     },
     "d_point_back.png": {
-      "hash": "2087799e0e953674b308a8ad8b9705f29633fd27d23384884c0610e395ee07e3",
-      "remote": "toledo/decks/d_point_back_2087799e.png"
+      "hash": "fc0db4a1c624f4cbf6f2931d28e479e42c24d70491252df8796460cb783ea0d5",
+      "remote": "toledo/decks/d_point_back_5af55cba.png"
     },
     "to_corte.png": {
       "hash": "08ddfc71886e0226cc3db7cfe04041ca839802015e9ff82687d4090617946cc3",
       "remote": "toledo/tokens/to_corte_08ddfc71.png"
     },
     "d_init_1.png": {
-      "hash": "194714e3fb31c759b04bfcf2b5c6cb780ed73fa89d51187a5a01ac0bf9a3fdba",
-      "remote": "toledo/decks/deck_init_sheet_de7d55a0.png"
+      "hash": "b6288f9c839add8a4921d12105feea63474f9c13578c84765928b972e95a276c",
+      "remote": "toledo/decks/deck_init_sheet_debd6af3.png"
     },
     "d_init_2.png": {
-      "hash": "581ebd90dbaf64181c2046db539cb9314f24526b2bbb8072210caee8efd6ba5d",
-      "remote": "toledo/decks/deck_init_sheet_de7d55a0.png"
+      "hash": "8f73486aef63d75c83a882740a40eadbfcf933c8372a23884b0cb51bd73e1c3b",
+      "remote": "toledo/decks/deck_init_sheet_debd6af3.png"
     },
     "d_init_3.png": {
       "hash": "50f837a4aa3fea0841a95e310a9741c89daecccef5ac2bca845bfa10cce066ad",
-      "remote": "toledo/decks/deck_init_sheet_de7d55a0.png"
+      "remote": "toledo/decks/deck_init_sheet_debd6af3.png"
     },
     "d_init_4.png": {
       "hash": "9157ed852be31c83e44d859bc1eca92594cb93ea825d37bbbc9b9ef41e94bdaa",
-      "remote": "toledo/decks/deck_init_sheet_de7d55a0.png"
+      "remote": "toledo/decks/deck_init_sheet_debd6af3.png"
     },
     "d_init_back.png": {
-      "hash": "3bb21ae9bbca0b45a0f9ce271aa4e2726de78bab4562ae82c41ab95afb58f940",
-      "remote": "toledo/decks/d_init_back_3bb21ae9.png"
+      "hash": "97112ee41eba9a3f5ca6f8fe74310417dd077b4b816b94a649256a42c8ee2c57",
+      "remote": "toledo/decks/d_init_back_2bad9d68.png"
+    },
+    "d_p_1.png": {
+      "hash": "6ce855d955b7cd393b7c1d978a06feb05675633257832bdbc856a04ebc46b53b",
+      "remote": "toledo/decks/deck_p_sheet_6c6c41a6.png"
+    },
+    "d_p_2.png": {
+      "hash": "6e90016521eeec97cdc0b2e6c4d2f94c4ceb26a642bdc3a71124f02a89a82286",
+      "remote": "toledo/decks/deck_p_sheet_6c6c41a6.png"
+    },
+    "d_p_3.png": {
+      "hash": "a32a8db22109c3f52b41bb7a9a71006f1bff08269e71b18a0d30d71328b3677d",
+      "remote": "toledo/decks/deck_p_sheet_6c6c41a6.png"
+    },
+    "d_p_4.png": {
+      "hash": "5323605a7c3ec7fc0e8de7b27e5d98d0a8f9b095adbe166e28d3e418b86f771e",
+      "remote": "toledo/decks/deck_p_sheet_6c6c41a6.png"
+    },
+    "d_p_5.png": {
+      "hash": "8a9c31cc53dd6de63c15f3f01d88f23d3d677dfae5185d6c8f832c3f45a85c11",
+      "remote": "toledo/decks/deck_p_sheet_6c6c41a6.png"
+    },
+    "d_p_6.png": {
+      "hash": "a30deafef15452cadab0eedc55557533d5a7858bd4c70a28c3ae9af1bd5aa567",
+      "remote": "toledo/decks/deck_p_sheet_6c6c41a6.png"
+    },
+    "d_p_back.png": {
+      "hash": "a4636ee99c194f894fe4860903dc2a5e819ad2386f823866f455c759049eebb5",
+      "remote": "toledo/decks/d_p_back_a70acdc1.png"
     }
   },
-  "save_hash": "9a1a2853c9ea13ba60d735a0c91d64f51dd96958fe9b3dec06833b4c19143ece"
+  "save_hash": "302fc689f95b1ecb99b5b242405e59f8d1ae95affb7bf6522837d4adf76b621d"
 }
