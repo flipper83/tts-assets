@@ -1,0 +1,237 @@
+{
+  "files": {
+    "t_1_1_b.png": {
+      "hash": "2cfc4f82cd39a8b03559de31ee80bedab2851c45918199ddb9385376f430c8ec",
+      "remote": "jantar2/tiles/t_1_1_b_1a4d8595.png"
+    },
+    "t_1_1_1_b.png": {
+      "hash": "daddfe07d26ecbca76de8b2e9bc88dcbfa83bd1b5b0b0d87acc5ad95cb13f54c",
+      "remote": "jantar2/tiles/t_1_1_1_b_8de4627f.png"
+    },
+    "t_1_1_2_b.png": {
+      "hash": "7b628f062951628c0b23acda17e64d9a1b76dc433e5e44705339de7b5440d64a",
+      "remote": "jantar2/tiles/t_1_1_2_b_de21493b.png"
+    },
+    "t_1_2_b.png": {
+      "hash": "a54b20df5d22b3879838383cb7e07a9ba8df9865eecd9894a866d1c74ed768a6",
+      "remote": "jantar2/tiles/t_1_2_b_34c207c8.png"
+    },
+    "t_1_2_1_b.png": {
+      "hash": "7b4ca05d3d1aaf82722b97f4594551d6a68c5025503e4dc469b29779791e1540",
+      "remote": "jantar2/tiles/t_1_2_1_b_67458a92.png"
+    },
+    "t_1_2_2_b.png": {
+      "hash": "17d115e86aacd1d904ee7295ab6e630ad2e447464902a033b181156876e59bea",
+      "remote": "jantar2/tiles/t_1_2_2_b_9dbceceb.png"
+    },
+    "t_1_3_b.png": {
+      "hash": "c34e361ad3af8b4cc74bb56e08bbdf32d44e62233fc12f1405a8b141550c6e51",
+      "remote": "jantar2/tiles/t_1_3_b_67ac27c7.png"
+    },
+    "t_1_3_1_b.png": {
+      "hash": "6fcac0f3b6e496416209e3ccb20c2f41ed8dc5a25b100e51836f95f5fce5d2f8",
+      "remote": "jantar2/tiles/t_1_3_1_b_36529db1.png"
+    },
+    "t_1_3_2_b.png": {
+      "hash": "3c4e07de360a934baecb32a375ea37b2fe047cbe4eea3923010fb391736a5d11",
+      "remote": "jantar2/tiles/t_1_3_2_b_8b82272c.png"
+    },
+    "t_1_4_b.png": {
+      "hash": "57340f061d483fef269821431b21d5490757921eeb30b53b5dc7dd9b062bcc86",
+      "remote": "jantar2/tiles/t_1_4_b_608eb091.png"
+    },
+    "t_1_4_1_b.png": {
+      "hash": "ec8a70e90bce4d57a2ac41c62ed28eff46d44104c4b99c6bd8bebf29ab9b7e64",
+      "remote": "jantar2/tiles/t_1_4_1_b_2283368e.png"
+    },
+    "t_1_4_2_b.png": {
+      "hash": "8f5f22b896dbf55ef2c0d60a178edb4683742cb9e7d115daf3be8bc3932ced5f",
+      "remote": "jantar2/tiles/t_1_4_2_b_b4e03b03.png"
+    },
+    "t_2_1_b.png": {
+      "hash": "eaa7554b770d6862d10af196fb62239722b3c61ca73cd82e0e4e9b7b601d17b5",
+      "remote": "jantar2/tiles/t_2_1_b_49df6bf9.png"
+    },
+    "t_2_1_1_b.png": {
+      "hash": "2ef5459b11bfe7435ebb6583090606e59c932cf2008a5d71621ba127fdc456f3",
+      "remote": "jantar2/tiles/t_2_1_1_b_6c02c29e.png"
+    },
+    "t_2_1_2_b.png": {
+      "hash": "4f69d3f69a73fffbdc8d1ef3e44ff4bdc350435af81ec3c0dd81bb3ae3c79a94",
+      "remote": "jantar2/tiles/t_2_1_2_b_9a826ec8.png"
+    },
+    "t_2_2_b.png": {
+      "hash": "18d3ff4a4e7d586abc6519cab0f246a7411e2bddffcd7eeb3b033ccabd910eea",
+      "remote": "jantar2/tiles/t_2_2_b_2907a320.png"
+    },
+    "t_2_2_1_b.png": {
+      "hash": "1211f85e8ed34e3e03c43bfcb6ff46b9e71646cade66015e0d9b753415990443",
+      "remote": "jantar2/tiles/t_2_2_1_b_172d26bd.png"
+    },
+    "t_2_2_2_b.png": {
+      "hash": "676e552adc3c79de053d9e409a1eb9ccb15f708c9be47ec9bc1f82d931f84e7e",
+      "remote": "jantar2/tiles/t_2_2_2_b_8531ee59.png"
+    },
+    "t_2_3_b.png": {
+      "hash": "e5cdff3bd76394304628f2fbfd9518634b2fa8db79c1f8aade07920567fb92cf",
+      "remote": "jantar2/tiles/t_2_3_b_058919af.png"
+    },
+    "t_2_3_1_b.png": {
+      "hash": "11414cac781a3d94c593f70133a19fe0cef0d48b95bc80126dd8f3128c16da4c",
+      "remote": "jantar2/tiles/t_2_3_1_b_1115e573.png"
+    },
+    "t_2_3_2_b.png": {
+      "hash": "4760bffe7c2d5b0a81e962b70b50505998d5541b217b28788a027ae885d086e4",
+      "remote": "jantar2/tiles/t_2_3_2_b_fd2d156e.png"
+    },
+    "t_2_4_b.png": {
+      "hash": "a31b53d006a75772cdca354450aad0cf8e413254c87b9ebad54a418e0e275eab",
+      "remote": "jantar2/tiles/t_2_4_b_522b587c.png"
+    },
+    "t_2_4_1_b.png": {
+      "hash": "a4fc043b6a521c3514f34ddeba08d0d9cb911e459ecba9445df0809c85cf5651",
+      "remote": "jantar2/tiles/t_2_4_1_b_e5d215ab.png"
+    },
+    "t_2_4_2_b.png": {
+      "hash": "ef85d9ebe9fc73f57e41fd84efe7bcb151efb4160bf5d790c686ea364f985b29",
+      "remote": "jantar2/tiles/t_2_4_2_b_23393848.png"
+    },
+    "t_3_1_b.png": {
+      "hash": "73448b46b06400c3c9d7ceb69a97fe374b269bebf6253c298a259990349ca386",
+      "remote": "jantar2/tiles/t_3_1_b_c410acf8.png"
+    },
+    "t_3_1_1_b.png": {
+      "hash": "f0d0fd3348145b4f4d02e858203c426edd7979e52f8caa9cf4f887119986dfc8",
+      "remote": "jantar2/tiles/t_3_1_1_b_aab1c038.png"
+    },
+    "t_3_1_2_b.png": {
+      "hash": "d6edbe666e3cef8ec60f96d4cff80517d587627f15ab0914693b3da3baf1d8e9",
+      "remote": "jantar2/tiles/t_3_1_2_b_65b108f6.png"
+    },
+    "t_3_2_b.png": {
+      "hash": "a1a763f2007a89fa14c5c6fc082f517da0b5a7a901d570d1655e2b136f3a7ba7",
+      "remote": "jantar2/tiles/t_3_2_b_80050f0e.png"
+    },
+    "t_3_2_1_b.png": {
+      "hash": "2e5349373dd1c398cdfd41c8472cd65df8af2eee1b37e3b958e29bc79529606c",
+      "remote": "jantar2/tiles/t_3_2_1_b_a67b5164.png"
+    },
+    "t_3_2_2_b.png": {
+      "hash": "50e585cf2439e494d798af48d031b05c39db5aed7d8baa5e0332e9491ec5550c",
+      "remote": "jantar2/tiles/t_3_2_2_b_652c384c.png"
+    },
+    "t_3_3_b.png": {
+      "hash": "b50343cd40268a5d282ff65faa1595f197abafb167cc5ee09b6e16b838f037d7",
+      "remote": "jantar2/tiles/t_3_3_b_77e54ab3.png"
+    },
+    "t_3_3_1_b.png": {
+      "hash": "5d2058600b2e98b48947e68a7787f43cf7ae1169bd1d67bc30c8b8ecbc8ebccd",
+      "remote": "jantar2/tiles/t_3_3_1_b_9d28325d.png"
+    },
+    "t_3_3_2_b.png": {
+      "hash": "58ee708cfe2a57abaad0274e3a3678095c23f8fd1d3420d0c5f4f72c76f798c1",
+      "remote": "jantar2/tiles/t_3_3_2_b_d5b72b7d.png"
+    },
+    "t_3_4_b.png": {
+      "hash": "6a8b5e692fe78e42df616900568e63616fa858ab98361d37627bf5bc40e97f80",
+      "remote": "jantar2/tiles/t_3_4_b_babb58e1.png"
+    },
+    "t_3_4_1_b.png": {
+      "hash": "0b540735e2374c7e4fa363b5e44935c6e2477af8b0db8b426183373e10ea9a9b",
+      "remote": "jantar2/tiles/t_3_4_1_b_8074032d.png"
+    },
+    "t_3_4_2_b.png": {
+      "hash": "1fae1804436afd096616ec65ac02ff4b5ff5170942e380390b769daa3d365f4a",
+      "remote": "jantar2/tiles/t_3_4_2_b_afb2b1fb.png"
+    },
+    "t_4_1_b.png": {
+      "hash": "78b9e0fa6efeba8c2020d0a256f61d714dc2a8f9e22fcbe5869c25037d2a8096",
+      "remote": "jantar2/tiles/t_4_1_b_cfad5820.png"
+    },
+    "t_4_1_1_b.png": {
+      "hash": "bad2717f6cbac67fdd82f157c93641ba4e11336db8c70291ac501bad3eb07877",
+      "remote": "jantar2/tiles/t_4_1_1_b_ea75471a.png"
+    },
+    "t_4_1_2_b.png": {
+      "hash": "e2d82037764a3ba12b56ffc6f9f19db3346d60516330df1d1bc8e1136b2a2d80",
+      "remote": "jantar2/tiles/t_4_1_2_b_841aea20.png"
+    },
+    "t_4_2_b.png": {
+      "hash": "f1f00b53b049b44e11387cf439b64c3aeeaa6dad0857a353776503449357194d",
+      "remote": "jantar2/tiles/t_4_2_b_8e18759c.png"
+    },
+    "t_4_2_1_b.png": {
+      "hash": "3dbedea2d52c44b4fac313fc5dbfe34cf9b059951d39f94cc672537c3490a38d",
+      "remote": "jantar2/tiles/t_4_2_1_b_36a36dd3.png"
+    },
+    "t_4_2_2_b.png": {
+      "hash": "033076aaa0b6c311ab8671017f22beab39ffc5a76373104a3356713e49ffed14",
+      "remote": "jantar2/tiles/t_4_2_2_b_70504ee7.png"
+    },
+    "t_4_3_b.png": {
+      "hash": "f733ee715130cbe9c390efff17b83f792820eea3af4d31fcc9b2c2a8f6fcbb28",
+      "remote": "jantar2/tiles/t_4_3_b_223aaa66.png"
+    },
+    "t_4_3_1_b.png": {
+      "hash": "8355c3bd241536dbee47fe9c6db77fbb2791ee4045b827718d474b187ea21ced",
+      "remote": "jantar2/tiles/t_4_3_1_b_2d132cac.png"
+    },
+    "t_4_3_2_b.png": {
+      "hash": "6d147690de2ea58eadb881be697500d99c6fae843c432183960160344fb6c441",
+      "remote": "jantar2/tiles/t_4_3_2_b_b947d318.png"
+    },
+    "t_4_4_b.png": {
+      "hash": "106d296ea9a6c7c7db0447155229fa6688fcc6a7b9fa0a84ab6d8235d45a0089",
+      "remote": "jantar2/tiles/t_4_4_b_aa37fd65.png"
+    },
+    "t_4_4_1_b.png": {
+      "hash": "e17c432ba430596bfb6aa0c2af5fcca19945802ae8d069e724ea56b27d5a50f3",
+      "remote": "jantar2/tiles/t_4_4_1_b_811ca2f0.png"
+    },
+    "t_4_4_2_b.png": {
+      "hash": "32dbdbf17cfe43b9b3afcbcae938d07fe17cf8db1118c5bd045df5c0ac972f7a",
+      "remote": "jantar2/tiles/t_4_4_2_b_8ecdadaa.png"
+    },
+    "c_bb_a_1.png": {
+      "hash": "d8711b8c06454344987f635434a3ed04fdd80d2299a6deb2091099d8baf02c10",
+      "remote": "jantar2/cards/c_bb_a_1_6f88b3ec.png"
+    },
+    "c_bb_b_1.png": {
+      "hash": "0dedcc469c1d626f429dd5592083ffcf1878b5176f9f03436d1d2cde2e31b1ea",
+      "remote": "jantar2/cards/c_bb_b_1_59ade979.png"
+    },
+    "c_bb_c_1.png": {
+      "hash": "c2c3c3a86fdf35c56cae3e2ec2eac4467554d46164a71ae17f3bf92d65f815dc",
+      "remote": "jantar2/cards/c_bb_c_1_1c810dd7.png"
+    },
+    "c_bp_a_1.png": {
+      "hash": "7d9b55a42bd103cdb5628d9b02663f3301ed0846a1d3efe05229af006fe4acf9",
+      "remote": "jantar2/cards/c_bp_a_1_49f7750d.png"
+    },
+    "c_bp_b_1.png": {
+      "hash": "6ed9a460d172bc4c9e535c463a81ef5fd89fe4a2088098ebd712996f29f851e9",
+      "remote": "jantar2/cards/c_bp_b_1_48faea00.png"
+    },
+    "c_bp_c_1.png": {
+      "hash": "ad58aa8937a5d151762b694838956beaa9a600f3da3acade4371371543cb3e9d",
+      "remote": "jantar2/cards/c_bp_c_1_d704b0ca.png"
+    },
+    "c_poin_back.png": {
+      "hash": "99b71bf1db0c8d64e7d3613e78af0070e0e3cc6c37b99d156ae2798dfc854fe9",
+      "remote": "jantar2/cards/c_poin_back_2e379a55.png"
+    },
+    "c_track_1_1.png": {
+      "hash": "db9ef21f6728530133a67355a4acc3b724bce8e286d27ef313b8dceb784ff566",
+      "remote": "jantar2/cards/c_track_1_1_92cb7ab6.png"
+    },
+    "c_track_2_1.png": {
+      "hash": "5a27e55bf0bb3485910c557827212719283cb946304f2001716df36d3020ee36",
+      "remote": "jantar2/cards/c_track_2_1_9296b9f0.png"
+    },
+    "c_track_3_1.png": {
+      "hash": "7d41c5940dc8ee07a70aa69b7259b7cf5370b5584d8fe8cc5cc1fa0ddef7981b",
+      "remote": "jantar2/cards/c_track_3_1_69447bbd.png"
+    }
+  },
+  "save_hash": "1711ac0c93f9178abcacc8800ea147bdc9cf0b012e91e4505d386f16dda3b82e"
+}
