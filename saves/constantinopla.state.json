@@ -239,7 +239,39 @@
     "db_city_9.png": {
       "hash": "29bc4e144e8cf99cbc80dadc19a63ad555dc6c3c6c152d55ce323469ff176eff",
       "remote": "constantinopla/decks/deck_city_back_sheet_ff99892b.png"
+    },
+    "c_money_a.png": {
+      "hash": "1c0c175553a59756073901336926b96d8372eb8543a2faac96f6d533003c3c91",
+      "remote": "constantinopla/cards/c_money_a_80eb8e2a.png"
+    },
+    "c_money_b.png": {
+      "hash": "fe4b69e94eb8162d44f4212cb950a334c15b193b958fa9cd1eef61fe81254672",
+      "remote": "constantinopla/cards/c_money_b_302f2824.png"
+    },
+    "c_stone_a.png": {
+      "hash": "b9027486698d3fbeb451eee37a6497e8e2dc920b62137a00943f1cd15c74943d",
+      "remote": "constantinopla/cards/c_stone_a_2d181119.png"
+    },
+    "c_stone_b.png": {
+      "hash": "5d6a647a8e89bad8a8bc9ac4df6e752431b00fc5e4d648007df999a15446bdce",
+      "remote": "constantinopla/cards/c_stone_b_15d7c6e9.png"
+    },
+    "c_wheat_a.png": {
+      "hash": "db76ff798fa20e5910428112a99cc4e02b8c6f51f3ad27b943ba943b3ea0df18",
+      "remote": "constantinopla/cards/c_wheat_a_1f1041f3.png"
+    },
+    "c_wheat_b.png": {
+      "hash": "267edb30b0f8088ad54b8701a95b567eb7b695c75459824cb68bb88128c2c65c",
+      "remote": "constantinopla/cards/c_wheat_b_f478c496.png"
+    },
+    "c_wood_a.png": {
+      "hash": "e71e61694ce160927ec8ecc8465dada6920bf4529ac91cd526e6915e9ffc4536",
+      "remote": "constantinopla/cards/c_wood_a_6c072258.png"
+    },
+    "c_wood_b.png": {
+      "hash": "8593667039702dce75b1bbeef420aa8a362f63ee77a447e8fdd18df4223cc596",
+      "remote": "constantinopla/cards/c_wood_b_b92ec12c.png"
     }
   },
-  "save_hash": "89b2b0fd9d4c5b1ee45794f1f3d22480c5867f008ef08f68351e64a9287f002c"
+  "save_hash": "e4cc7f4d835ede8e52c403063320da91629254e821bfe3214bf5a48d3fb70e73"
 }
