@@ -511,8 +511,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "1": {
-          "FaceURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_money_back_302f2824.png",
-          "BackURL": "",
+          "FaceURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_money_a_80eb8e2a.png",
+          "BackURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_money_b_302f2824.png",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
@@ -569,8 +569,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2": {
-          "FaceURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_stone_back_15d7c6e9.png",
-          "BackURL": "",
+          "FaceURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_stone_a_2d181119.png",
+          "BackURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_stone_b_15d7c6e9.png",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
@@ -627,8 +627,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "3": {
-          "FaceURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_wheat_back_f478c496.png",
-          "BackURL": "",
+          "FaceURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_wheat_a_1f1041f3.png",
+          "BackURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_wheat_b_f478c496.png",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
@@ -685,8 +685,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "4": {
-          "FaceURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_wood_back_b92ec12c.png",
-          "BackURL": "",
+          "FaceURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_wood_a_6c072258.png",
+          "BackURL": "https://flipper83.github.io/tts-assets/constantinopla/cards/c_wood_b_b92ec12c.png",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
