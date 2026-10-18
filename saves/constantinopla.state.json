@@ -1,0 +1,241 @@
+{
+  "files": {
+    "t_playerboard_a.png": {
+      "hash": "3bfdea280a29995913879e092c628ca4c2cd94b8dd5a8f971555328c77855158",
+      "remote": "constantinopla/tiles/t_playerboard_a_42e57db7.png"
+    },
+    "t_playerboard_b.png": {
+      "hash": "3bfdea280a29995913879e092c628ca4c2cd94b8dd5a8f971555328c77855158",
+      "remote": "constantinopla/tiles/t_playerboard_b_42e57db7.png"
+    },
+    "c_money_back.png": {
+      "hash": "fe4b69e94eb8162d44f4212cb950a334c15b193b958fa9cd1eef61fe81254672",
+      "remote": "constantinopla/cards/c_money_back_302f2824.png"
+    },
+    "c_stone_back.png": {
+      "hash": "5d6a647a8e89bad8a8bc9ac4df6e752431b00fc5e4d648007df999a15446bdce",
+      "remote": "constantinopla/cards/c_stone_back_15d7c6e9.png"
+    },
+    "c_wheat_back.png": {
+      "hash": "267edb30b0f8088ad54b8701a95b567eb7b695c75459824cb68bb88128c2c65c",
+      "remote": "constantinopla/cards/c_wheat_back_f478c496.png"
+    },
+    "c_wood_back.png": {
+      "hash": "8593667039702dce75b1bbeef420aa8a362f63ee77a447e8fdd18df4223cc596",
+      "remote": "constantinopla/cards/c_wood_back_b92ec12c.png"
+    },
+    "d_action_1.png": {
+      "hash": "d69b139fd103f5299653b819ea456f5851ade65bb84df3bfe5e5003be974a104",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_10.png": {
+      "hash": "95697125fb7bc19fde1a1bd30a5fc4d83d86feaa7a5771e926762daa599a0bf0",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_11.png": {
+      "hash": "d9e56f8cc65812d20309b5bb1c7c9f26df4b9cfa4e61c6d0ffcf89385488127d",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_12.png": {
+      "hash": "a35ba395e302f4f8787e11d53613e09b57fdaf5d262af99ee8f941fe31688516",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_13.png": {
+      "hash": "1bce1a49da99b9363e35b53e723adb1099f5bf03183719b7a181c56728a6d30a",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_14.png": {
+      "hash": "76cc28ec3333d73f75368d153001cb80aa50769e04462f10ba59bfdfe7e23536",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_15.png": {
+      "hash": "7878cabfba9f20df7295d6e64451e5bc742fa049b6f69a2058cdcaf947dc93f8",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_2.png": {
+      "hash": "c1c81f881b7a069d2d966e1723b8e4d1b61367fd7594daa12a6a5a7fbcc7be12",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_3.png": {
+      "hash": "398e7c0aecad681f476224cd7d29816a4462787927329fa71de875eda1c6dd8c",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_4.png": {
+      "hash": "5be3b1843f29c3a485ca5c9a3181d9904e9e94d00bbacfe7cfdbfcb672317d80",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_5.png": {
+      "hash": "767a81e321eb66e2981b1014c3309c633fae40b39faaf9e44338be8d622227de",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_6.png": {
+      "hash": "529628ee6582efe806e8c5ef7c502455d56abad5eddb014c6e0429efc2638790",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_7.png": {
+      "hash": "621145281caf7773610cda9d967d15554bf7209d37031f0d701964974f3064a2",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_8.png": {
+      "hash": "ea26d56c2719fb539f67cb7395d41e81030a408e0693bbfc1c30dac5d35d4a99",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "d_action_9.png": {
+      "hash": "7f28a168839914eec1c4aa61e68e3d0c222ea48b95e7064f29864d24fed9e756",
+      "remote": "constantinopla/decks/deck_action_sheet_b6cddbf2.png"
+    },
+    "db_action_1.png": {
+      "hash": "595e670615c0077cb14affe181a3aa4d78af3aa7efd44d8fb288c32bbfdea59a",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_10.png": {
+      "hash": "7407797eb9a71108e4f54020ae32400ffcddd5454164fddd23c2dcc723ddac44",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_11.png": {
+      "hash": "f0a322e948b6b6507b043c69e64d181def8bea901dc993af4a8c35033048ab9b",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_12.png": {
+      "hash": "736282e075fe82e5b2db515b90b4b54813792ccd232494a2c06ccd577518f709",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_13.png": {
+      "hash": "d522164cca8227b076bd2db16183dff19d037b8685dfd1aee3085cf6b2a41601",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_14.png": {
+      "hash": "e903678e85abd67d303bfd373e50ecba751aef7d48ae8ab351c3200bf46735f6",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_15.png": {
+      "hash": "d5f24398f602abe60990a126ca1f81cb015fc67ebf88c510bd697d9065ef0b87",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_2.png": {
+      "hash": "8609d402d36c103821e569ce58c7eb6334f88634c83a6fc4cff2ba8759638f6e",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_3.png": {
+      "hash": "1ada434f15240c14ae25b957ca6165b3ba9ccf44f8d94a9afe1b5e4a5c367bba",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_4.png": {
+      "hash": "515027209afb32e030b71ffb9f388c07692cf337797e35d301de28a742f8bbc8",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_5.png": {
+      "hash": "8a8a5e3512c444f962803e754634382ed70f3771831bc3a91fbcfe041bcab38f",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_6.png": {
+      "hash": "876cb8f2c265bd69f15c17c194b7c6500c050e05787c7a1ffbb41b8feda65ddc",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_7.png": {
+      "hash": "d751cb299674dd848a297206ab4feae1454f756063f07bc43682bb890daf076c",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_8.png": {
+      "hash": "22658bbae1cff1990bb060fe599eb1b567d3e092f2327451e49774605c89c564",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "db_action_9.png": {
+      "hash": "7975445642e47f834063a0d50ed1b1bdcda7ea2f449f24932dda9860427de954",
+      "remote": "constantinopla/decks/deck_action_back_sheet_c4a95411.png"
+    },
+    "d_city_1.png": {
+      "hash": "dfb85573b70ef081968682eac25224d85495aacd9b078a616098f723635d1eee",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_10.png": {
+      "hash": "cb633a3e03967c08d0625d34104581bb1a2bcf578b7ac1c99cfa2c473ed25581",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_11.png": {
+      "hash": "73e5f048308d317782c559ccde87b09c07e024c2981c033dae0cd832489a3df5",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_11_2.png": {
+      "hash": "5e0a9786b422fea88685bdebfdc264a5cffd73d32c3e607d19f62a5db0fe5d35",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_2.png": {
+      "hash": "2fb00a87be30aa070fdc6884418686949b3a9d5a9dd176f10e51132f4bbc54c7",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_3.png": {
+      "hash": "10e07f7cca925fa2c564d21d28bd42acc73330882fc20b13ef1133e060fc2fe8",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_4.png": {
+      "hash": "16422a4504a062fea5a94536b26328798133dbca3fa80e059c4c9719b86e58d7",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_5.png": {
+      "hash": "89121e9e19a9593910099267c5df226b204df193f35e91e3ecf4fc54ead32b13",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_6.png": {
+      "hash": "54c9f60cfe299db4a471f2db9c264a8d94ac394fba394d571aee73b74557d0e8",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_7.png": {
+      "hash": "19feb6b45cf3a9e9b23bc036be553d1831c2958d9f8a6c0493df21fd2c92cf64",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_8.png": {
+      "hash": "71fb40d96f72b8aa6e4482d4c9ce58d6b1e9fd9262f21ed994f7c9b490a4b308",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "d_city_9.png": {
+      "hash": "fe5be0018de65c6c59a6509275180585ba6950576c997aec06d5ec6156922aa7",
+      "remote": "constantinopla/decks/deck_city_sheet_57acbd6b.png"
+    },
+    "db_city_1.png": {
+      "hash": "6d0b38241e5c309a4cea5f96993a543d5d43a33295a1b31cba6e2e55c66d7b80",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_10.png": {
+      "hash": "32d83483a96a7640b60dadcf8728c6a07ffd851fcbbdd681ba818e8feed66476",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_11.png": {
+      "hash": "80befd07ea47b96070b8cf73f10f644f25c9fde212886a09f394c281e808d5b0",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_2.png": {
+      "hash": "1baf74ff6103d0e58829d5be731263ec8d7afcbd1d3ea4f46dc567467642f77e",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_3.png": {
+      "hash": "33dc7cb8a3d918c7064174deb2ddf10c836b524117247338b63c31f7a7b7c119",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_4.png": {
+      "hash": "ac218fd9101fe0e2cdaf3a7c05e700b241d2d03b0448a0bbf5221a171c06557b",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_5.png": {
+      "hash": "eb10d9a9576bb1e616a0e7bf48d4ebd1c29915b540869d4a2efa53da8755d779",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_6.png": {
+      "hash": "b952ef4684905290ad24daac2c11bdad7a1c0aeb43cf08a522377886a0bf1b8d",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_7.png": {
+      "hash": "1ec3988b4864d6f8fb8bb4365870871686afe7ede6b7afd3b589db5c890a8b4d",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_8.png": {
+      "hash": "f7b16bfb481141b5adc897831b55fa8cd1d8237c1ab88917de0e7faad717f093",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    },
+    "db_city_9.png": {
+      "hash": "29bc4e144e8cf99cbc80dadc19a63ad555dc6c3c6c152d55ce323469ff176eff",
+      "remote": "constantinopla/decks/deck_city_back_sheet_9a1b911b.png"
+    }
+  },
+  "save_hash": "38e796b26d0fb24673c8e6688f4475cd50b6afbfb91b3909ac04fea583b24ebe"
+}
